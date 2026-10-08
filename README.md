@@ -1,20 +1,5 @@
 # Hotel Λalayaa Fresh
 
-Modify the existing "Hotel Λalayaa Direct Order" project into a
-PURE VEGETARIAN RESTAURANT takeaway ordering website.
-
-IMPORTANT:
-Hotel Λalayaa serves ONLY vegetarian food.
-
-Remove ALL non-vegetarian food items and references.
-
-Do not show:
-- Chicken
-- Mutton
-- Fish
-- Egg
-- Any non-vegetarian item
-
 ==================================================
 RESTAURANT
 ==================================================
